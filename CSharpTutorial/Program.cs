@@ -10,6 +10,13 @@ namespace CSharpTutorial
     {
         static void Main(string[] args)
         {
+
+            //// 01. Hello World
+            HelloWorld myHelloWorld = new HelloWorld();
+            myHelloWorld.PrintHelloWorld();
+
+
+
         }
     }
 }
