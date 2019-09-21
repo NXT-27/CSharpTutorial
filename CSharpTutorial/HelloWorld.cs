@@ -7,9 +7,8 @@ namespace CSharpTutorial
         public void PrintHelloWorld()
         {
             /* my first program in C# */
-            Console.WriteLine("== 01. HELLO WORLD ==");
+            Console.WriteLine("\n\n== 01. HELLO WORLD ==");
             Console.WriteLine("Hello World");
-            Console.ReadKey();
         }
     }
 }

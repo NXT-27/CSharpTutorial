@@ -16,6 +16,12 @@ namespace CSharpTutorial
             myHelloWorld.PrintHelloWorld();
 
 
+            //// 02. Basic Syntax
+            Rectangle myRectangle = new Rectangle();
+            myRectangle.Acceptdetails();
+            myRectangle.Display();
+
+
 
         }
     }
